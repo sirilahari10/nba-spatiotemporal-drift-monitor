@@ -1,0 +1,5 @@
+```text
+pyspark==3.5.0
+nba_api==1.4.1
+pandas==2.2.0
+scipy==1.12.0
